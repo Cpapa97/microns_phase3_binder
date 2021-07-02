@@ -1,0 +1,1 @@
+datajoint==0.12.9 # Should be pinned to 0.12.9
